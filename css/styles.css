@@ -1,0 +1,7 @@
+@import './menu.css';
+
+html
+{
+    scroll-behavior: smooth;
+    scroll-padding: 125px;
+}
