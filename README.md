@@ -58,6 +58,4 @@ Projeto concluído como parte da minha evolução no desenvolvimento front-end. 
 
 ---
 
-## 🔗 Link do projeto
-
-https://diegovts.github.io/Landing-Page-King-Burger/
+👉 [Acesse o projeto aqui](https://diegovts.github.io/Landing-Page-King-Burger/)
